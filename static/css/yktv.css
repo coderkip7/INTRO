@@ -1,0 +1,74 @@
+ul{
+    list-style-type: none;
+    background-color: #081449;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 22px;
+    display: block;
+    color: white;
+    font-size: 22px;
+}li :hover{
+  background-color: #211702;
+ }
+ .fruits{
+     background-color: khaki;
+     border: 2px dotted green;
+     margin: 25px;
+     padding: 20px;
+     text-align: center;
+     font-style: italic;
+ }
+ .Guns{
+     background-color: #081449;
+     margin: 19px;
+     padding: 50px;
+     border: 3px dotted #4b1717;
+     text-align: center;
+     color: aqua;
+     font-style: unset;
+ }
+ .cars{
+     background-color: #c5912b;
+     margin: 19px;
+     padding: 50px;
+     border: 3px dotted #4b1717;
+     text-align: center;
+     font-style: initial;
+ }
+ .Sharks{
+     background-color: #36a40a;
+     margin: 35px;
+     padding: 50px;
+     border: 3px dotted #d9bc7c;
+     text-align: center;
+     font-style: oblique;
+ }
+ #gari{
+     background-color: maroon;
+     margin: 35px;
+     padding: 30px;
+     border: 3px dotted #d9bc7c;
+     text-align: center;
+     font-style: initial;
+     color: #211702;
+ }
+ #matunda{
+     background-color: #081449;
+     margin: 19px;
+     padding: 30px;
+     border: 3px dotted #4b1717;
+     text-align: center;
+     color: aqua;
+     font-style: unset;
+
+ }
+
+
+
+
+

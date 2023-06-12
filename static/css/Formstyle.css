@@ -1,0 +1,37 @@
+.container{
+    max-width: 450px;
+    margin: 0 auto;
+    border: 1px solid #081449;
+    border-radius: 5px;
+    padding: 20px;
+}
+.container h2{
+    text-align: center;
+}
+.form_group{
+    margin-bottom: 20px;
+}
+.form_group label{
+    margin-top: 5px;
+    display: block;
+    font-weight: bold;
+}
+.form_group input{
+    width: 95%;
+    border: 1px solid #1e328c;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form_group button{
+    width: 100%;
+    padding: 10px;
+    background-color: #d9bc7c;
+    color: maroon;
+    border: none;
+    border-radius: 5px;
+}
+.form_group button:hover{
+    background-color: #210202;
+}
+.form_group
